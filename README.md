@@ -1,4 +1,4 @@
-# Machine learning for psychologists: A gentle introduction
+# Introduction to machine learning with scikit-learn
 
 [Tal Yarkoni](https://talyarkoni.org) (tyarkoni@gmail.com)
 
