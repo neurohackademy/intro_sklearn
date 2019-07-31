@@ -11,4 +11,4 @@
 5. [Model selection](https://github.com/neurohackademy/intro_sklearn/blob/master/notebooks/5-Model-selection.ipynb)
 6. [Dimensionality reduction](https://github.com/neurohackademy/intro_sklearn/blob/master/notebooks/6-Dimensionality-reduction.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/neurohackademy/intro_sklearn/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/neurohackademy/intro_sklearn/master)
